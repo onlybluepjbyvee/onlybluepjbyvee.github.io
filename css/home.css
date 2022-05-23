@@ -1,0 +1,28 @@
+
+.pic-1{
+	width: 350px;
+	height: 233.33px;
+}
+.pic-2{
+	
+	width:350px;
+	height:525px;
+}
+.cardtitle{
+	padding: 50px;
+}
+.card{
+	margin: 10px;
+}
+.hinh-3{
+	height: 265px;
+}
+.form-css{
+	margin-top: 50px;
+}
+.slide-pic{
+	width: 1920px;
+	height: 530px;
+	overflow: hidden!;
+	background-position: center;
+}
